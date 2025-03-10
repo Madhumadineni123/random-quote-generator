@@ -99,6 +99,6 @@ Start the Tomcat server and access the application at:
 
 MADINENI MADHU: madhukrishnan431@gmail.com
 
-GitHub: Your GitHub Profile
+
 
 Enjoy using the Quote of the Day web application! 😊
