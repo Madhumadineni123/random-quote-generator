@@ -80,7 +80,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/QuoteOfTheDay.git
+git clone (https://github.com/Madhumadineni123/random-quote-generator)
 Open the project in your IDE.
 
 Add the MySQL Connector/J JAR file to the WebContent/WEB-INF/lib folder.
